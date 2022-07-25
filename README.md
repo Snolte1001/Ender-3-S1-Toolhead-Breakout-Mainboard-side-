@@ -4,6 +4,7 @@ Ender 3 S1 Toolhead Breakout (Mainboard side)
 Breakout PCB for Ender 3 S1 toolhead cable mainboard side.
 Allows the use of another mainboard without having to change the original cable.
 
+NOTE !
 Due to the circuit in the toolhead, it is only possible to use 24V fan, because fan + and heat cartridge share the same wire ! 
 
 All connectors JST-XH series.
