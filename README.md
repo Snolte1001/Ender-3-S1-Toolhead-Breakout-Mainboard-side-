@@ -12,7 +12,11 @@ Pin header for flat ribbon cable TRU COMPONENTS 1589712 or compatible with 2mm p
 
 The .zip file is ready to be uploaded to your trusted PCB manufacturer. PCP Way and Aisler are tested.
 
-![TOP](https://github.com/Snolte1001/Ender-3-S1-Toolhead-Breakout-Mainboard-side-/blob/main/PCB_TOP.png)
-![TOP](https://github.com/Snolte1001/Ender-3-S1-Toolhead-Breakout-Mainboard-side-/blob/main/wiring%20diagram.jpg)
+![TOP](https://github.com/Snolte1001/Ender-3-S1-Toolhead-Breakout-Mainboard-side-/blob/main/PCB_TOP.png)  
+![TOP](https://github.com/Snolte1001/Ender-3-S1-Toolhead-Breakout-Mainboard-side-/blob/main/wiring%20diagram.jpg)  
+![TOP](https://github.com/Snolte1001/Ender-3-S1-Toolhead-Breakout-Mainboard-side-/blob/main/Breakout_1.jpg)
+
+
+
 
 
